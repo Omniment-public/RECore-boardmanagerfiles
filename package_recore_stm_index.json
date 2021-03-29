@@ -135,7 +135,7 @@
                         {
                             "host": "x86_64-apple-darwin",
                             "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/v0.0.4/RECore-arduino_tinydfu_tools-macosx-0.0.4.tar.gz",
-                            "archiveFileName": "RECore-arduino_tinydfu_tools-macosx-0.0.3.tar.gz",
+                            "archiveFileName": "RECore-arduino_tinydfu_tools-macosx-0.0.4.tar.gz",
                             "checksum": "SHA-256:CBC7E3B49FEAF9780ACB984B9272D85EBFD09D3290EE53107CC631AC94745BF4",
                             "size": "11223"
                         },
