@@ -10,12 +10,12 @@
                 {
                     "name": "RECore",
                     "architecture": "stm32",
-                    "version": "0.0.4",
+                    "version": "0.1.0",
                     "category": "Contributed",
-                    "url": "https://github.com/Omniment-public/RECore-Arduino_Core_STM32/archive/v0.0.4.tar.gz",
+                    "url": "https://github.com/Omniment-public/RECore-Arduino_Core_STM32/archive/refs/tags/v0.1.0.tar.gz",
                     "archiveFileName": "RECore-Arduino_Core_STM32-0.0.4.tar.gz",
-                    "checksum": "SHA-256:64C1EA3CAC134F8B3EC6F6886746458FC16FA5DCC0409DE5BBB3BD86C2331F26",
-                    "size": "59205055",
+                    "checksum": "SHA-256:D14B4DD26C74A759DEC17D834204277C91EF0B04C7CACBDED53CE9F87ECCCFC6",
+                    "size": "59204377",
                     "boards": [
                         {
                             "name": "RECore"
