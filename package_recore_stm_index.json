@@ -10,12 +10,44 @@
                 {
                     "name": "RECore",
                     "architecture": "stm32",
+                    "version": "0.1.2",
+                    "category": "Contributed",
+                    "url": "https://github.com/Omniment-public/RECore-Arduino_Core_STM32/archive/refs/tags/v0.1.2.tar.gz",
+                    "archiveFileName": "RECore-Arduino_Core_STM32-0.1.2.tar.gz",
+                    "checksum": "SHA-256:08BFF7458713D6C1398462A7F66E27CBAFA824617B6389DE9D59CA6EC3345222",
+                    "size": "59212382",
+                    "boards": [
+                        {
+                            "name": "RECore"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "packager": "RECore",
+                            "name": "xpack-arm-none-eabi-gcc",
+                            "version": "10.2.1-1.1"
+                        },
+                        {
+                            "packager": "RECore",
+                            "name": "CMSIS",
+                            "version": "5.5.1"
+                        },
+                        {
+                            "packager": "RECore",
+                            "name": "RECore-STM32-Tools",
+                            "version": "0.0.4"
+                        }
+                    ]
+                },
+                {
+                    "name": "RECore",
+                    "architecture": "stm32",
                     "version": "0.1.1",
                     "category": "Contributed",
-                    "url": "https://github.com/Omniment-public/RECore-Arduino_Core_STM32/archive/refs/tags/v0.1.0.tar.gz",
-                    "archiveFileName": "RECore-Arduino_Core_STM32-0.0.4.tar.gz",
-                    "checksum": "SHA-256:11294D3D49205B01F7ADE0C9F35FFDA9D33F4E4598DA337DF8D31F15162D1768",
-                    "size": "59203990",
+                    "url": "https://github.com/Omniment-public/RECore-Arduino_Core_STM32/archive/refs/tags/v0.1.1.tar.gz",
+                    "archiveFileName": "RECore-Arduino_Core_STM32-0.1.1.tar.gz",
+                    "checksum": "SHA-256:447F7EA73F06FD2F4B7B250BB2A67A5CF1209FA9D643D1D42AC4580755455C6B",
+                    "size": "59204814",
                     "boards": [
                         {
                             "name": "RECore"
