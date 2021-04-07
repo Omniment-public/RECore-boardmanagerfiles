@@ -191,7 +191,7 @@
                     "systems": [
                         {
                             "host": "i686-mingw32",
-                            "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/v0.0.4/RECore-arduino_tinydfu_tools-win-0.0.5.zip",
+                            "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/v0.0.5/RECore-arduino_tinydfu_tools-win-0.0.5.zip",
                             "archiveFileName": "RECore-arduino_tinydfu_tools-win-0.0.5.zip",
                             "checksum": "SHA-256:736FE5780A231EC8447C8A15D8A834B45FC828DE8793A0D1A09A2FBB61D63BB1",
                             "size": "865663"
