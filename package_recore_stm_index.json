@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/Omniment-public/RECore-Arduino_Core_STM32/archive/refs/tags/0.2.0.tar.gz",
           "archiveFileName": "RECore-Arduino_Core_STM32-0.2.0.tar.gz",
-          "checksum": "SHA-256:D43B6D2CF8A27D336101C80E4AD8DD7B620DEF68F7725B80EDF1B84A533D3458",
-          "size": "51808258",
+          "checksum": "SHA-256:BB3AF901EAB064243E2768D015C640120689D4AB0266EFE83A5FA02990A742E2",
+          "size": "51807781",
           "boards": [
             {
               "name": "RECore"
@@ -37,7 +37,7 @@
             {
               "packager": "RECore",
               "name": "RECore-STM32-Tools",
-              "version": "0.0.6"
+              "version": "0.0.7"
             }
           ]
         }
@@ -141,21 +141,21 @@
         },
         {
           "name": "RECore-STM32-Tools",
-          "version": "0.0.6",
+          "version": "0.0.7",
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/0.0.6/RECore-arduino_tinydfu_tools-win-0.0.6.zip",
-              "archiveFileName": "RECore-arduino_tinydfu_tools-win-0.0.6.zip",
-              "checksum": "SHA-256:D98DA7017677DC235CD7FF67AB1B927A4440657E2AE73A6F109E552DFF844E6B",
-              "size": "862414"
+              "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/0.0.7/RECore-arduino_tinydfu_tools-win-0.0.7.zip",
+              "archiveFileName": "RECore-arduino_tinydfu_tools-win-0.0.7.zip",
+              "checksum": "SHA-256:77153B83797381D0AC08A3295CDB2708F757F3A12BEA45FE6DDD6A8A44652CD3",
+              "size": "862435"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/0.0.6/RECore-arduino_tinydfu_tools-macosx-0.0.6.tar.gz",
-              "archiveFileName": "RECore-arduino_tinydfu_tools-macosx-0.0.6.tar.gz",
-              "checksum": "03FF9A10CFFF9024FA0FBDB0571BA419F6C813229AEF4ACF3F95F4D42CEF65FA",
-              "size": "13763"
+              "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/0.0.7/RECore-arduino_tinydfu_tools-macosx-0.0.7.tar.gz",
+              "archiveFileName": "RECore-arduino_tinydfu_tools-macosx-0.0.7.tar.gz",
+              "checksum": "SHA-256:E4169C9A3EB4FEDE81E1B132B1A594E1996536CC6F86CD5CD824B62EB8E2D57A",
+              "size": "13323"
             }
           ]
         }
