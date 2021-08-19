@@ -15,7 +15,7 @@
           "version": "0.2.1",
           "category": "Contributed",
           "url": "https://github.com/Omniment-public/RECore-Arduino_Core_STM32/archive/refs/tags/0.2.1.tar.gz",
-          "archiveFileName": "RECore-Arduino_Core_STM32-0.2.0.tar.gz",
+          "archiveFileName": "RECore-Arduino_Core_STM32-0.2.1.tar.gz",
           "checksum": "SHA-256:19D7536405CF72D2FDBF2D7812CA2FD8AD5693B642AA0277EAFFA9F2B0D7211A",
           "size": "51805296",
           "boards": [
@@ -38,6 +38,38 @@
               "packager": "RECore",
               "name": "RECore-STM32-Tools",
               "version": "0.0.6"
+            }
+          ]
+        },
+        {
+          "name": "RECore",
+          "architecture": "stm32",
+          "version": "0.2.2",
+          "category": "Contributed",
+          "url": "https://github.com/Omniment-public/RECore-Arduino_Core_STM32/archive/refs/tags/v0.2.2.tar.gz",
+          "archiveFileName": "RECore-Arduino_Core_STM32-0.2.2.tar.gz",
+          "checksum": "SHA-256:293A95B579A97EF046046EEE09D358658A3EA60A5A87937C5228B1638817EB06",
+          "size": "51809776",
+          "boards": [
+            {
+              "name": "RECore"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "RECore",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "9.3.1-1.3"
+            },
+            {
+              "packager": "RECore",
+              "name": "CMSIS",
+              "version": "5.7.0"
+            },
+            {
+              "packager": "RECore",
+              "name": "RECore-STM32-Tools",
+              "version": "0.0.7"
             }
           ]
         }
@@ -156,6 +188,26 @@
               "archiveFileName": "RECore-arduino_tinydfu_tools-macosx-0.0.6.tar.gz",
               "checksum": "SHA-256:EF432035B447326677A3C9D06EBAD1E35BD8A0D07D1656DE0EF42F492F976C49",
               "size": "13170"
+            }
+          ]
+        },
+        {
+          "name": "RECore-STM32-Tools",
+          "version": "0.0.7",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/v0.0.7/RECore-arduino_tinydfu_tools-win-v0.0.7.zip",
+              "archiveFileName": "RECore-arduino_tinydfu_tools-win-v0.0.7.zip",
+              "checksum": "SHA-256:25FE606EEB7B2A03F9E1C175BEF28A807E94D63A2C969DFF7EC3CFD38CD8B7A1",
+              "size": "862684"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/v0.0.7/RECore-arduino_tinydfu_tools-macosx-v0.0.7.tar.gz",
+              "archiveFileName": "RECore-arduino_tinydfu_tools-macosx-v0.0.7.tar.gz",
+              "checksum": "SHA-256:9152BEFD02F03BB291699887ED55105FFACAE315D497FE646611AF55BC9ED176",
+              "size": "13739"
             }
           ]
         }
