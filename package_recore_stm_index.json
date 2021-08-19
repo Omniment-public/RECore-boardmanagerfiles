@@ -145,14 +145,14 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/0.0.6/RECore-arduino_tinydfu_tools-win-0.0.6.zip",
+              "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/v0.0.6/RECore-arduino_tinydfu_tools-win-0.0.6.zip",
               "archiveFileName": "RECore-arduino_tinydfu_tools-win-0.0.6.zip",
               "checksum": "SHA-256:77153B83797381D0AC08A3295CDB2708F757F3A12BEA45FE6DDD6A8A44652CD3",
               "size": "862435"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/0.0.6/RECore-arduino_tinydfu_tools-macosx-0.0.6.gz",
+              "url": "https://github.com/Omniment-public/RECore-arduino_tinydfu_tools/releases/download/v0.0.6/RECore-arduino_tinydfu_tools-macosx-0.0.6.tar.gz",
               "archiveFileName": "RECore-arduino_tinydfu_tools-macosx-0.0.6.tar.gz",
               "checksum": "SHA-256:EF432035B447326677A3C9D06EBAD1E35BD8A0D07D1656DE0EF42F492F976C49",
               "size": "13170"
