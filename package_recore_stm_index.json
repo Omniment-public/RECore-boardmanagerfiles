@@ -104,6 +104,38 @@
               "version": "0.0.7"
             }
           ]
+        },
+        {
+          "name": "RECore",
+          "architecture": "stm32",
+          "version": "0.2.4",
+          "category": "Contributed",
+          "url": "https://github.com/Omniment-public/RECore-Arduino_Core_STM32/archive/refs/tags/v0.2.4.tar.gz",
+          "archiveFileName": "RECore-Arduino_Core_STM32-0.2.4.tar.gz",
+          "checksum": "SHA-256:DA21C0D95E1E36641CEAF0A9A09439CCE1B1BFAFDEDD2219BC1364DC6764BBB4",
+          "size": "51812962",
+          "boards": [
+            {
+              "name": "RECore"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "RECore",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "9.3.1-1.3"
+            },
+            {
+              "packager": "RECore",
+              "name": "CMSIS",
+              "version": "5.7.0"
+            },
+            {
+              "packager": "RECore",
+              "name": "RECore-STM32-Tools",
+              "version": "0.0.7"
+            }
+          ]
         }
       ],
       "tools": [
